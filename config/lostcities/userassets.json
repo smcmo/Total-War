@@ -1,0 +1,40 @@
+[
+	{
+		"type": "condition",
+		"name": "chestloot",
+		"values": [
+			{
+				"factor": 50,
+				"value": "totalwar:city_food_chest_common"
+			},
+			{
+				"factor": 50,
+				"value": "totalwar:city_weapon_chest_common"
+			},
+			{
+				"factor": 25,
+				"value": "totalwar:city_food_chest_rare"
+			},
+			{
+				"factor": 25,
+				"value": "totalwar:city_weapon_chest_rare"
+			},
+			{
+				"factor": 10,
+				"value": "totalwar:city_food_chest_epic"
+			},
+			{
+				"factor": 10,
+				"value": "totalwar:city_weapon_chest_epic"
+			},
+			{
+				"factor": 30,
+				"value": "totalwar:city_tools_chest"
+			},
+			{
+				"factor": 20,
+				"value": "totalwar:city_cyberware_chest"
+			}
+		]
+	}
+]

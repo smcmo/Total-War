@@ -1,0 +1,92 @@
+key_key.attack:-100:NONE
+key_key.use:-99:NONE
+key_key.forward:17:NONE
+key_key.left:30:NONE
+key_key.back:31:NONE
+key_key.right:32:NONE
+key_key.jump:57:NONE
+key_key.sneak:29:NONE
+key_key.sprint:42:NONE
+key_key.drop:16:NONE
+key_key.inventory:18:NONE
+key_key.chat:20:NONE
+key_key.playerlist:15:NONE
+key_key.pickItem:-98:NONE
+key_key.command:53:NONE
+key_key.screenshot:60:NONE
+key_key.togglePerspective:63:NONE
+key_key.smoothCamera:0:NONE
+key_key.fullscreen:87:NONE
+key_key.spectatorOutlines:0:NONE
+key_key.swapHands:33:NONE
+key_key.saveToolbarActivator:46:NONE
+key_key.loadToolbarActivator:45:NONE
+key_key.advancements:38:NONE
+key_key.hotbar.1:2:NONE
+key_key.hotbar.2:3:NONE
+key_key.hotbar.3:4:NONE
+key_key.hotbar.4:5:NONE
+key_key.hotbar.5:6:NONE
+key_key.hotbar.6:7:NONE
+key_key.hotbar.7:8:NONE
+key_key.hotbar.8:9:NONE
+key_key.hotbar.9:10:NONE
+key_Toggle GPS:65:NONE
+key_keybind.baublesinventory:0:NONE
+key_key.death_history:0:NONE
+key_key.securitycraft.cameraZoomIn:13:NONE
+key_key.securitycraft.cameraZoomOut:12:NONE
+key_key.securitycraft.cameraEmitRedstone:0:NONE
+key_key.securitycraft.cameraActivateNightVision:0:NONE
+key_key.jei.toggleOverlay:24:CONTROL
+key_key.jei.focusSearch:33:CONTROL
+key_key.jei.toggleCheatMode:0:NONE
+key_key.jei.toggleEditMode:0:NONE
+key_key.jei.showRecipe:19:NONE
+key_key.jei.showUses:22:NONE
+key_key.jei.recipeBack:14:NONE
+key_key.jei.previousPage:201:NONE
+key_key.jei.nextPage:209:NONE
+key_key.jei.bookmark:30:NONE
+key_key.jei.toggleBookmarkOverlay:0:NONE
+key_cyberware.keybinds.menu:52:NONE
+key_Reload Gun:19:NONE
+key_Reload Client:67:NONE
+key_Fire Mode:47:NONE
+key_Inspect:49:NONE
+key_Unload Key:0:NONE
+key_Attachment Mode:51:NONE
+key_Flashlight:35:NONE
+key_Backpack Inventory:0:NONE
+key_Left (Attach mode):203:NONE
+key_Right (Attach mode):205:NONE
+key_Up (Attach mode):200:NONE
+key_Down (Attach mode):208:NONE
+key_Debug Mode:68:NONE
+key_key.travelersbackpack.inventory:23:NONE
+key_key.travelersbackpack.toggle_tank:0:NONE
+key_key.travelersbackpack.cycle_tool:0:NONE
+key_gui.xaero_switch_waypoint_set:0:NONE
+key_gui.xaero_instant_waypoint:78:NONE
+key_gui.xaero_toggle_slime:0:NONE
+key_gui.xaero_toggle_grid:0:NONE
+key_gui.xaero_toggle_waypoints:0:NONE
+key_gui.xaero_toggle_map_waypoints:0:NONE
+key_gui.xaero_toggle_map:0:NONE
+key_gui.xaero_enlarge_map:44:NONE
+key_gui.xaero_waypoints_key:0:NONE
+key_gui.xaero_zoom_in:0:NONE
+key_gui.xaero_zoom_out:0:NONE
+key_gui.xaero_new_waypoint:48:NONE
+key_gui.xaero_display_all_sets:0:NONE
+key_gui.xaero_toggle_light_overlay:0:NONE
+key_gui.xaero_toggle_entity_radar:0:NONE
+key_gui.xaero_reverse_entity_radar:0:NONE
+key_gui.xaero_toggle_manual_cave_mode:0:NONE
+key_gui.xaero_alternative_list_players:0:NONE
+key_gui.xaero_minimap_settings:21:NONE
+key_gui.xaero_open_map:50:NONE
+key_gui.xaero_open_settings:27:NONE
+key_gui.xaero_map_zoom_in:0:NONE
+key_gui.xaero_map_zoom_out:0:NONE
+key_gui.xaero_quick_confirm:54:NONE
